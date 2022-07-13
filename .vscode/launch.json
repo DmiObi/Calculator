@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/dmitrii/School/UTD & Collin/CS2337/Project_1/Project_1",
+      "program": "/Users/dmitrii/School/UTD & Collin/CS2337/Project_1/Project_1/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+  ]
+}
